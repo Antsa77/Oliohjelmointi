@@ -1,0 +1,15 @@
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\bin\Debug\net6.0\Opiskelija.exe
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\bin\Debug\net6.0\Opiskelija.deps.json
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\bin\Debug\net6.0\Opiskelija.runtimeconfig.json
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\bin\Debug\net6.0\Opiskelija.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\bin\Debug\net6.0\Opiskelija.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\Opiskelija.csproj.AssemblyReference.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\Opiskelija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\Opiskelija.AssemblyInfoInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\Opiskelija.AssemblyInfo.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\Opiskelija.csproj.CoreCompileInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\Opiskelija.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\refint\Opiskelija.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\Opiskelija.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\Opiskelija.genruntimeconfig.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Opiskelia\obj\Debug\net6.0\ref\Opiskelija.dll
