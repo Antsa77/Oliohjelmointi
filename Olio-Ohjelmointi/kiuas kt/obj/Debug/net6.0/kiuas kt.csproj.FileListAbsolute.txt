@@ -1,0 +1,15 @@
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\bin\Debug\net6.0\kiuas kt.exe
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\bin\Debug\net6.0\kiuas kt.deps.json
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\bin\Debug\net6.0\kiuas kt.runtimeconfig.json
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\bin\Debug\net6.0\kiuas kt.dll
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\bin\Debug\net6.0\kiuas kt.pdb
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\kiuas kt.csproj.AssemblyReference.cache
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\kiuas kt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\kiuas kt.AssemblyInfoInputs.cache
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\kiuas kt.AssemblyInfo.cs
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\kiuas kt.csproj.CoreCompileInputs.cache
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\kiuas kt.dll
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\refint\kiuas kt.dll
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\kiuas kt.pdb
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\kiuas kt.genruntimeconfig.cache
+C:\Users\anton.nousiainen\Source\Repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\kiuas kt\obj\Debug\net6.0\ref\kiuas kt.dll
