@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton.nousiainen\\Source\\Repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\anton.nousiainen\\source\\repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton.nousiainen\\Source\\Repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\anton.nousiainen\\source\\repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton.nousiainen\\Source\\Repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\anton.nousiainen\\source\\repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\anton.nousiainen\\Source\\Repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\anton.nousiainen\\source\\repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\anton.nousiainen\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\anton.nousiainen\\Source\\Repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",

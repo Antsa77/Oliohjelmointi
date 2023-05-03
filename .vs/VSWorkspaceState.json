@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Olio-Ohjelmointi",
+    "\\Olio-Ohjelmointi\\Albumi kt",
+    "\\Olio-Ohjelmointi\\ConsoleApp1",
+    "\\Olio-Ohjelmointi\\kiuas kt"
   ],
-  "SelectedNode": "\\Olio-Ohjelmointi.sln",
+  "SelectedNode": "\\Olio-Ohjelmointi\\Albumi kt\\Albumi kt.csproj",
   "PreviewInSolutionExplorer": false
 }
