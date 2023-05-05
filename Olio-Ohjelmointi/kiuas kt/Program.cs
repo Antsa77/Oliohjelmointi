@@ -10,5 +10,6 @@
         kiuas.AsetaLämpötila(98);
         kiuas.AsetaKosteus(75);
         kiuas.KytkePois();
+        Console.ReadLine();
     }
 }

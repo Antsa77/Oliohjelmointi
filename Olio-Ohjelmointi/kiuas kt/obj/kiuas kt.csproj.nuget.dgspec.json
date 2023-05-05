@@ -11,7 +11,7 @@
         "projectName": "kiuas kt",
         "projectPath": "C:\\Users\\anton.nousiainen\\source\\repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\kiuas kt\\kiuas kt.csproj",
         "packagesPath": "C:\\Users\\anton.nousiainen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton.nousiainen\\Source\\Repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\kiuas kt\\obj\\",
+        "outputPath": "C:\\Users\\anton.nousiainen\\source\\repos\\Antsa77\\Oliohjelmointi\\Olio-Ohjelmointi\\kiuas kt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

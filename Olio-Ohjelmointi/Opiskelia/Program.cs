@@ -9,6 +9,7 @@
             Opiskelija1.TulostaData();
             Opiskelija1.muokkaaopintopistetitä(5);
             Opiskelija1.TulostaData();
+            Console.ReadLine();
         }
     }
 }
