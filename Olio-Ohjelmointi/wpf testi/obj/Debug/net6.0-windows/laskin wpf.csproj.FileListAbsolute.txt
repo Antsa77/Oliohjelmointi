@@ -1,0 +1,21 @@
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf.csproj.AssemblyReference.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf_MarkupCompile.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf_MarkupCompile.lref
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\bin\Debug\net6.0-windows\laskin wpf.exe
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\bin\Debug\net6.0-windows\laskin wpf.deps.json
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\bin\Debug\net6.0-windows\laskin wpf.runtimeconfig.json
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\bin\Debug\net6.0-windows\laskin wpf.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\bin\Debug\net6.0-windows\laskin wpf.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf.g.resources
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf.AssemblyInfoInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf.AssemblyInfo.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf.csproj.CoreCompileInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\refint\laskin wpf.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\laskin wpf.genruntimeconfig.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\wpf testi\obj\Debug\net6.0-windows\ref\laskin wpf.dll

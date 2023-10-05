@@ -20,8 +20,8 @@ internal class Program
         Ajoneuvo mopo = new Ajoneuvo();
         mopo.Nimi = "Derbi";
         mopo.Nopeus = 45;
-        mopo.Renkaat = 2; 
-        
+        mopo.Renkaat = 2;
+
         mopo.TulostaData();
 
         Console.WriteLine(mopo.ToString());

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-class Korttipakka
+﻿class Korttipakka
 {
     private List<string> kortit;
 
@@ -23,7 +19,7 @@ class Korttipakka
     {
         foreach (string kortti in kortit)
         {
-            Console.WriteLine("kortti on: "+kortti);
+            Console.WriteLine("kortti on: " + kortti);
         }
     }
     public void Shuffle()

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-class Kappale
+﻿class Kappale
 {
     public string nimi;
     public string artisti;

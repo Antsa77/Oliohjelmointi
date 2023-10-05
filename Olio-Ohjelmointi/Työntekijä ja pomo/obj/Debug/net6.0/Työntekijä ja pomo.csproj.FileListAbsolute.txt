@@ -1,0 +1,15 @@
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\Työntekijä ja pomo.csproj.AssemblyReference.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\Työntekijä ja pomo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\Työntekijä ja pomo.AssemblyInfoInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\Työntekijä ja pomo.AssemblyInfo.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\Työntekijä ja pomo.csproj.CoreCompileInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\bin\Debug\net6.0\Työntekijä ja pomo.exe
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\bin\Debug\net6.0\Työntekijä ja pomo.deps.json
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\bin\Debug\net6.0\Työntekijä ja pomo.runtimeconfig.json
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\bin\Debug\net6.0\Työntekijä ja pomo.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\bin\Debug\net6.0\Työntekijä ja pomo.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\Työntekijä ja pomo.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\refint\Työntekijä ja pomo.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\Työntekijä ja pomo.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\Työntekijä ja pomo.genruntimeconfig.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Työntekijä ja pomo\obj\Debug\net6.0\ref\Työntekijä ja pomo.dll

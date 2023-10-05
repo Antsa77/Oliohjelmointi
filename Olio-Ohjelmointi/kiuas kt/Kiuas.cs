@@ -1,6 +1,4 @@
-﻿using System;
-
-class Kiuas
+﻿class Kiuas
 {
     private bool onPäällä;
     private int lämpötila;
