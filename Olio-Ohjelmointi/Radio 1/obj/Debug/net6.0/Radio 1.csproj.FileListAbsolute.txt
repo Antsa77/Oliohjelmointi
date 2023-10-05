@@ -1,0 +1,15 @@
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\bin\Debug\net6.0\Radio 1.exe
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\bin\Debug\net6.0\Radio 1.deps.json
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\bin\Debug\net6.0\Radio 1.runtimeconfig.json
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\bin\Debug\net6.0\Radio 1.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\bin\Debug\net6.0\Radio 1.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\Radio 1.csproj.AssemblyReference.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\Radio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\Radio 1.AssemblyInfoInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\Radio 1.AssemblyInfo.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\Radio 1.csproj.CoreCompileInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\Radio 1.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\refint\Radio 1.dll
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\Radio 1.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\Radio 1.genruntimeconfig.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Radio 1\obj\Debug\net6.0\ref\Radio 1.dll

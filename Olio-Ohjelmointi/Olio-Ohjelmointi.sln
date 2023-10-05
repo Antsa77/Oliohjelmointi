@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Albumi kt", "Albumi kt\Albu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "korttipakka", "korttipakka\korttipakka.csproj", "{F7D5E7A7-2546-4D60-9B50-1ECEE9A5C99D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Työntekijä ja pomo", "Työntekijä ja pomo\Työntekijä ja pomo.csproj", "{4374401F-36C2-4338-987E-811265669183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Työntekijä ja pomo", "Työntekijä ja pomo\Työntekijä ja pomo.csproj", "{4374401F-36C2-4338-987E-811265669183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio 1", "Radio 1\Radio 1.csproj", "{78BBF33F-B56E-47CA-918B-012370B721A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4374401F-36C2-4338-987E-811265669183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4374401F-36C2-4338-987E-811265669183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4374401F-36C2-4338-987E-811265669183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BBF33F-B56E-47CA-918B-012370B721A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BBF33F-B56E-47CA-918B-012370B721A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BBF33F-B56E-47CA-918B-012370B721A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BBF33F-B56E-47CA-918B-012370B721A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

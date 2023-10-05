@@ -12,7 +12,6 @@
 
     public override double LaskePalkka()
     {
-        // Pomon kuukausipalkka lasketaan tässä
         return Palkka + Boonus;
     }
 }
