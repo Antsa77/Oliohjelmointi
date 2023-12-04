@@ -15,7 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "korttipakka", "korttipakka\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Työntekijä ja pomo", "Työntekijä ja pomo\Työntekijä ja pomo.csproj", "{4374401F-36C2-4338-987E-811265669183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio 1", "Radio 1\Radio 1.csproj", "{78BBF33F-B56E-47CA-918B-012370B721A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radio 1", "Radio 1\Radio 1.csproj", "{78BBF33F-B56E-47CA-918B-012370B721A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radio 2", "Radio 2\Radio 2.csproj", "{3ADADC9D-DBD3-47A2-BB77-59C4F09F0D55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SM-liiga", "SM-liiga\SM-liiga.csproj", "{CF383B25-07FA-4632-82E3-D5C5DB5BEA79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaloWpf", "TaloWpf\TaloWpf.csproj", "{EB6AAC34-63E1-47E0-9AB2-80EB5FF1C77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaskinWpf", "LaskinWpf\LaskinWpf.csproj", "{4C15D6F2-D8E5-43ED-B513-F8DD114C5731}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,22 @@ Global
 		{78BBF33F-B56E-47CA-918B-012370B721A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78BBF33F-B56E-47CA-918B-012370B721A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78BBF33F-B56E-47CA-918B-012370B721A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADADC9D-DBD3-47A2-BB77-59C4F09F0D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADADC9D-DBD3-47A2-BB77-59C4F09F0D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADADC9D-DBD3-47A2-BB77-59C4F09F0D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADADC9D-DBD3-47A2-BB77-59C4F09F0D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF383B25-07FA-4632-82E3-D5C5DB5BEA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF383B25-07FA-4632-82E3-D5C5DB5BEA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF383B25-07FA-4632-82E3-D5C5DB5BEA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF383B25-07FA-4632-82E3-D5C5DB5BEA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6AAC34-63E1-47E0-9AB2-80EB5FF1C77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6AAC34-63E1-47E0-9AB2-80EB5FF1C77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6AAC34-63E1-47E0-9AB2-80EB5FF1C77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6AAC34-63E1-47E0-9AB2-80EB5FF1C77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C15D6F2-D8E5-43ED-B513-F8DD114C5731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C15D6F2-D8E5-43ED-B513-F8DD114C5731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C15D6F2-D8E5-43ED-B513-F8DD114C5731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C15D6F2-D8E5-43ED-B513-F8DD114C5731}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

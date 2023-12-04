@@ -1,0 +1,12 @@
+﻿<Window x:Class="TaloWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TaloSovellus" Height="350" Width="525">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Laita Valot Päälle/Pois" Click="ValotButtonClick"/>
+            <Slider x:Name="LampotilaSlider" Minimum="0" Maximum="30" ValueChanged="LampotilaSliderValueChanged"/>
+            <Button Content="Lukitse/Ota Lukko Pois" Click="OviButtonClick"/>
+        </StackPanel>
+    </Grid>
+</Window>
