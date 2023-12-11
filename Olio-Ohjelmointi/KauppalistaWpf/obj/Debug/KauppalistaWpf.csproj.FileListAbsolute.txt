@@ -1,0 +1,15 @@
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\bin\Debug\KauppalistaWpf.exe.config
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\bin\Debug\KauppalistaWpf.exe
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\bin\Debug\KauppalistaWpf.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\KauppalistaWpf.csproj.AssemblyReference.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\KauppalistaWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\MainWindow.baml
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\MainWindow.g.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\App.g.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\KauppalistaWpf_MarkupCompile.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\KauppalistaWpf.g.resources
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\KauppalistaWpf.Properties.Resources.resources
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\KauppalistaWpf.csproj.GenerateResource.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\KauppalistaWpf.csproj.CoreCompileInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\KauppalistaWpf.exe
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\KauppalistaWpf\obj\Debug\KauppalistaWpf.pdb

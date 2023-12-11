@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaloWpf", "TaloWpf\TaloWpf.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaskinWpf", "LaskinWpf\LaskinWpf.csproj", "{4C15D6F2-D8E5-43ED-B513-F8DD114C5731}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KauppalistaWpf", "KauppalistaWpf\KauppalistaWpf.csproj", "{B6949367-2E8C-4478-9968-96A1338C7229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinta-ala LaskuriWpf", "Pinta-ala LaskuriWpf\Pinta-ala LaskuriWpf.csproj", "{1D8588A4-5512-4FA2-8A74-E0871969F3D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{4C15D6F2-D8E5-43ED-B513-F8DD114C5731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C15D6F2-D8E5-43ED-B513-F8DD114C5731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C15D6F2-D8E5-43ED-B513-F8DD114C5731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6949367-2E8C-4478-9968-96A1338C7229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6949367-2E8C-4478-9968-96A1338C7229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6949367-2E8C-4478-9968-96A1338C7229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6949367-2E8C-4478-9968-96A1338C7229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8588A4-5512-4FA2-8A74-E0871969F3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8588A4-5512-4FA2-8A74-E0871969F3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8588A4-5512-4FA2-8A74-E0871969F3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8588A4-5512-4FA2-8A74-E0871969F3D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfOstoskarry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ostoskärry" Height="350" Width="525">
+    <Grid Background="PaleVioletRed">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="218" Height="97">
+            <CheckBox x:Name="CheckBoxTuote1" Content="Kana" Background="LightGray"/>
+            <CheckBox x:Name="CheckBoxTuote2" Content="Riisi" Background="LightGray"/>
+            <CheckBox x:Name="CheckBoxTuote3" Content="Maito" Background="LightGray"/>
+            <CheckBox x:Name="CheckBoxTuote4" Content="Vesi" Background="LightGray"/>
+            <CheckBox x:Name="CheckBoxTuote5" Content="Koiranruoka" Background="LightGray"/>
+            <Button Content="Osta" Click="OstaButtonClick" Background="Green"/>
+        </StackPanel>
+        <StackPanel x:Name="StockPanel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0"/>
+    </Grid>
+</Window>
