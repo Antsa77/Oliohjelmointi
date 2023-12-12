@@ -1,0 +1,15 @@
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\OmaSovellus WPF.csproj.AssemblyReference.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\OmaSovellus WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\App.g.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\OmaSovellus WPF_MarkupCompile.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\bin\Debug\OmaSovellus WPF.exe.config
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\bin\Debug\OmaSovellus WPF.exe
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\bin\Debug\OmaSovellus WPF.pdb
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\MainWindow.baml
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\MainWindow.g.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\OmaSovellus WPF.g.resources
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\OmaSovellus_WPF.Properties.Resources.resources
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\OmaSovellus WPF.csproj.GenerateResource.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\OmaSovellus WPF.csproj.CoreCompileInputs.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\OmaSovellus WPF.exe
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\OmaSovellus WPF\obj\Debug\OmaSovellus WPF.pdb

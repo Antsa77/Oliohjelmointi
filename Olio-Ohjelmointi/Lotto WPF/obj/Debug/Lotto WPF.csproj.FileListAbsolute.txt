@@ -1,0 +1,10 @@
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\Lotto WPF.csproj.AssemblyReference.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\Lotto WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\MainWindow.baml
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\MainWindow.g.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\App.g.cs
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\Lotto WPF_MarkupCompile.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\Lotto WPF.g.resources
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\Lotto_WPF.Properties.Resources.resources
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\Lotto WPF.csproj.GenerateResource.cache
+C:\Users\anton.nousiainen\source\repos\Antsa77\Oliohjelmointi\Olio-Ohjelmointi\Lotto WPF\obj\Debug\Lotto WPF.csproj.CoreCompileInputs.cache

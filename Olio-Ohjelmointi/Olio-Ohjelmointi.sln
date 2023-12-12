@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KauppalistaWpf", "Kauppalis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinta-ala LaskuriWpf", "Pinta-ala LaskuriWpf\Pinta-ala LaskuriWpf.csproj", "{1D8588A4-5512-4FA2-8A74-E0871969F3D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotto WPF", "Lotto WPF\Lotto WPF.csproj", "{56EF1D57-0C5F-499A-8D2C-7B854542DBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmaSovellus WPF", "OmaSovellus WPF\OmaSovellus WPF.csproj", "{FA2B937E-EDCC-4DC2-9AFC-F44FAC85F384}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{1D8588A4-5512-4FA2-8A74-E0871969F3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D8588A4-5512-4FA2-8A74-E0871969F3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D8588A4-5512-4FA2-8A74-E0871969F3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56EF1D57-0C5F-499A-8D2C-7B854542DBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EF1D57-0C5F-499A-8D2C-7B854542DBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EF1D57-0C5F-499A-8D2C-7B854542DBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EF1D57-0C5F-499A-8D2C-7B854542DBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2B937E-EDCC-4DC2-9AFC-F44FAC85F384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2B937E-EDCC-4DC2-9AFC-F44FAC85F384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2B937E-EDCC-4DC2-9AFC-F44FAC85F384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2B937E-EDCC-4DC2-9AFC-F44FAC85F384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
